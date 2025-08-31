@@ -49,7 +49,7 @@ Schedule 1/
 
 ## Step 3: Install Example Scripts (Optional)
 
-1. Copy the example Lua scripts from the ScheduleLua GitHub to your `Scripts` folder
+1. Copy the example Lua scripts from the ScheduleLua GitHub to your `Mods\ScheduleLua\Scripts` folder
 2. The beta includes working examples that demonstrate currently available features:
    - `example.lua` - Uses stable core functionality
    - `ui_example.lua` - Demonstrates notifications (note: advanced UI is experimental)
